@@ -14,4 +14,7 @@ string nome = "Sharon"; //legge quello che scrivo e lo memorizza nella variabile
 //Console.WriteLine($"Hello, {nome}!");
 
 string cognome = "Tempestini";
-Console.WriteLine($"Hello, {nome} {cognome}!"); 
+//Console.WriteLine($"Hello, {nome} {cognome}!"); 
+
+string data = "22 Luglio";
+Console.WriteLine($"Hello, {nome} {cognome} \n {data}!"); 
