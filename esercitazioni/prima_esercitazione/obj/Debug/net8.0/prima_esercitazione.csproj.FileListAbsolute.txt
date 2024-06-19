@@ -1,0 +1,15 @@
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\bin\Debug\net8.0\prima_esercitazione.exe
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\bin\Debug\net8.0\prima_esercitazione.deps.json
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\bin\Debug\net8.0\prima_esercitazione.runtimeconfig.json
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\bin\Debug\net8.0\prima_esercitazione.dll
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\bin\Debug\net8.0\prima_esercitazione.pdb
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\obj\Debug\net8.0\prima_esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\obj\Debug\net8.0\prima_esercitazione.AssemblyInfoInputs.cache
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\obj\Debug\net8.0\prima_esercitazione.AssemblyInfo.cs
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\obj\Debug\net8.0\prima_esercitazione.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\obj\Debug\net8.0\prima_esercitazione.sourcelink.json
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\obj\Debug\net8.0\prima_esercitazione.dll
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\obj\Debug\net8.0\refint\prima_esercitazione.dll
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\obj\Debug\net8.0\prima_esercitazione.pdb
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\obj\Debug\net8.0\prima_esercitazione.genruntimeconfig.cache
+C:\Users\DOTNET\Documents\Dev1_2024\esercitazioni\prima_esercitazione\obj\Debug\net8.0\ref\prima_esercitazione.dll

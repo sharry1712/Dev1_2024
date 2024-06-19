@@ -1,0 +1,8 @@
+C:\Users\DOTNET\Documents\Dev1_2024\obj\Debug\net8.0\Dev1_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOTNET\Documents\Dev1_2024\obj\Debug\net8.0\Dev1_2024.AssemblyInfoInputs.cache
+C:\Users\DOTNET\Documents\Dev1_2024\obj\Debug\net8.0\Dev1_2024.AssemblyInfo.cs
+C:\Users\DOTNET\Documents\Dev1_2024\obj\Debug\net8.0\Dev1_2024.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET\Documents\Dev1_2024\obj\Debug\net8.0\Dev1_2024.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DOTNET\Documents\Dev1_2024\obj\Debug\net8.0\Dev1_2024.RazorAssemblyInfo.cache
+C:\Users\DOTNET\Documents\Dev1_2024\obj\Debug\net8.0\Dev1_2024.RazorAssemblyInfo.cs
+C:\Users\DOTNET\Documents\Dev1_2024\obj\Debug\net8.0\Dev1_2024.sourcelink.json
